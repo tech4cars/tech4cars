@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tech4cars
+- 👋 Hi, I’m Myles Kitchen, @tech4cars
 I'm an electrical/electonic engineer focused on Automotive Electronics.
 I have more than 45 years experience with Auto Electronics of all types.
 I serve as a forensic investigator, consultant, and expert in matter invovling Auto Electronics,
